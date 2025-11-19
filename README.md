@@ -3,7 +3,7 @@
 ## **Aim**
 Write a program for **Autocorrelation** and **Power Spectral Density (PSD)** of signals in **Scilab** and verify the **Wiener–Khinchin relation**.
 
----
+--- 
 
 ## **Equipments Needed**
 - Computer with **Intel i3 processor** (or higher)  
