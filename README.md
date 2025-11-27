@@ -68,6 +68,9 @@ plot(fw2);
 ## **Output:**
 <img width="1919" height="1199" alt="Auto Corelation" src="https://github.com/user-attachments/assets/10149828-335f-4775-a4ae-b1a6ce2f15b2" />
 
+![AUTO  ](https://github.com/user-attachments/assets/20b47a59-da50-465a-b258-0eb4032fa463)
+
+
 
 
 ---
